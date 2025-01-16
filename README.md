@@ -12,6 +12,6 @@ Desgin
 
 Code
 
-[![My Skills](https://skillicons.dev/icons?i=pug,threejs,unity,unreal,js,html,css,react,nextjs,nodejs,ipfs,solidity,bots&tailwind=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pug,threejs,js,html,css,react,nextjs,nodejs,ipfs,solidity,bots&tailwind=3)](https://skillicons.dev)
 
 ## 🏄 ✌🏻
