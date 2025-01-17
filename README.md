@@ -1,4 +1,4 @@
-# Hello World 👋 Gurinsky at your service
+# Hello World 👋 I'm Gurinsky
 
 ### I love 🍌 and 🥭 and 🌴 and most the time you can find me near a beach 🌊
 
